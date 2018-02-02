@@ -1,3 +1,6 @@
+"""Herein are two of the functions I created during the Microsoft Capstone Competition
+to optimize my Boosted Decision Tree's performance."""
+
 import itertools
 import pandas as pd
 from sklearn.ensemble import GradientBoostingRegressor
